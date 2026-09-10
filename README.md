@@ -63,36 +63,3 @@ I enjoy going beyond making things work — understanding **how systems behave i
 ### `TOOLS & ENVIRONMENT`
 
 `Git` • `GitHub` • `Docker` • `Linux`
-
----
-
-## 🔓 **OPEN SOURCE**
-
-<p align="center">
-<pre align="center">
-
-╔══════════════════════════════════════════════════╗
-║              OPEN SOURCE MODE : ON               ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  → Exploring real-world codebases                ║
-║  → Solving issues                                ║
-║  → Opening Pull Requests                         ║
-║  → Reviewing & understanding existing systems    ║
-║  → Learning through collaboration                ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-</pre>
-</p>
-
-**Open source isn't just about writing code — it's about understanding existing systems, collaborating with developers, and shipping improvements that others can use.**
-
----
-
-## 🔥 **CONTRIBUTION ACTIVITY**
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SHEKHAR-Y&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&hide_border=false"/>
-
-</p>
